@@ -5,6 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Cassiobury Infant School Dates
 X-WR-TIMEZONE:Europe/London
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+
 BEGIN:VEVENT
 UID:fcb7fd5a-9865-4b97-a569-10d9f44c511c@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -14,6 +17,7 @@ DTEND;VALUE=DATE:20260902
 LOCATION:School
 DESCRIPTION:Autumn Term 2026. School closed to pupils.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:a27261e3-01a4-48d2-8550-c45fea8c1309@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -23,6 +27,7 @@ DTEND;VALUE=DATE:20260903
 LOCATION:School
 DESCRIPTION:Autumn Term 2026. School closed to pupils.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:a868b0e2-81f0-4987-8f61-5021cfaeefec@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -32,6 +37,7 @@ DTEND;VALUE=DATE:20260904
 LOCATION:School
 DESCRIPTION:First day of Autumn Term 2026.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:454d4910-367c-4d7a-af80-f401eb5d3e6f@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -39,10 +45,9 @@ SUMMARY:Flu Vaccinations
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 LOCATION:School
-DESCRIPTION:Administered by Vaccination UK. Online permission form must be 
- completed - sent directly by Vaccination UK\; queries to them\, not school
- .
+DESCRIPTION:Administered by Vaccination UK. Online permission form must be completed - sent directly by Vaccination UK\; queries to them\, not school.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:73425291-ef7d-4fa2-aa4a-4f924fb355a9@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -52,6 +57,7 @@ DTEND;VALUE=DATE:20260919
 LOCATION:School
 DESCRIPTION:Wear jeans to school\, send £1 top half in uniform
 END:VEVENT
+
 BEGIN:VEVENT
 UID:4fa6d925-faf9-4054-96fe-fe470ef8e382@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -59,10 +65,9 @@ SUMMARY:Parent Pit Stop - Relational Practice (Positive Regard)
 DTSTART;TZID=Europe/London:20260925T090000
 DTEND;TZID=Europe/London:20260925T100000
 LOCATION:School
-DESCRIPTION:All parents. New initiative to help staff support children with
-  behaviour and well-being. Approx. 1 hour. Booking: 'Positive Regard sign 
- up' link.
+DESCRIPTION:All parents. New initiative to help staff support children with behaviour and well-being. Approx. 1 hour. Booking: 'Positive Regard sign up' link.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:f0835f0f-42c3-4914-bfb5-46c409e398e6@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -70,9 +75,9 @@ SUMMARY:Parent Pit Stop - Phonics
 DTSTART;TZID=Europe/London:20261016T090000
 DTEND;TZID=Europe/London:20261016T100000
 LOCATION:School
-DESCRIPTION:Reception parents only. How we teach phonics\, then hands-on se
- ssion with your child. Booking: 'Reception sign up' link.
+DESCRIPTION:Reception parents only. How we teach phonics\, then hands-on session with your child. Booking: 'Reception sign up' link.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:06d68203-00a8-4b67-bb46-6b3a3d542e97@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -82,6 +87,16 @@ DTEND;VALUE=DATE:20261031
 LOCATION:School
 DESCRIPTION:Monday 26 October - Friday 30 October 2026.
 END:VEVENT
+
+BEGIN:VEVENT
+UID:test-line-20261027@cassiobury-infant-school
+DTSTAMP:20260912T200000Z
+SUMMARY:TEST LINE
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DESCRIPTION:TEST LINE
+END:VEVENT
+
 BEGIN:VEVENT
 UID:cfc6d5e6-7386-4a67-9780-8ff5ade93b17@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -89,9 +104,9 @@ SUMMARY:Parent Pit Stop - Reception Maths Mastery
 DTSTART;TZID=Europe/London:20261109T140000
 DTEND;TZID=Europe/London:20261109T150000
 LOCATION:School
-DESCRIPTION:Reception parents only. How we teach Maths\, then hands-on sess
- ion with your child. Booking link to follow.
+DESCRIPTION:Reception parents only. How we teach Maths\, then hands-on session with your child. Booking link to follow.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:0a9e4ab7-88f5-40c6-9f36-efcb380841f5@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -101,6 +116,7 @@ DTEND;VALUE=DATE:20261128
 LOCATION:School
 DESCRIPTION:School closed to pupils.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:14d09022-96a7-498b-bb39-bd593ea86444@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -110,6 +126,7 @@ DTEND;VALUE=DATE:20261219
 LOCATION:School
 DESCRIPTION:Term ends 1.00pm.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:e9e113cd-6691-4d78-a869-81f31c2b23e8@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -119,6 +136,7 @@ DTEND;VALUE=DATE:20270105
 LOCATION:School
 DESCRIPTION:Spring Term 2027. School closed to pupils.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:665d62b9-f407-43ad-b49b-098e441e1983@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -128,6 +146,7 @@ DTEND;VALUE=DATE:20270106
 LOCATION:School
 DESCRIPTION:First day of Spring Term 2027.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:824991c2-62b1-4716-9484-f446c2ffbcb4@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -137,6 +156,7 @@ DTEND;VALUE=DATE:20270220
 LOCATION:School
 DESCRIPTION:Monday 15 February - Friday 19 February 2027.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:f7b01ff6-cee1-47a2-95c8-f39968c8268b@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -146,6 +166,7 @@ DTEND;VALUE=DATE:20270326
 LOCATION:School
 DESCRIPTION:Term ends 1.00pm.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:f3088bda-5549-4011-b3fc-997fa08fd322@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -155,6 +176,7 @@ DTEND;VALUE=DATE:20270413
 LOCATION:School
 DESCRIPTION:First day of Summer Term 2027.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:256d0b49-fc8c-4bdd-bd64-168b5a04075b@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -164,6 +186,7 @@ DTEND;VALUE=DATE:20270605
 LOCATION:School
 DESCRIPTION:Monday 31 May - Friday 4 June 2027.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:e26c08c0-dae0-49df-969e-f241bec5c79f@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -173,6 +196,7 @@ DTEND;VALUE=DATE:20270626
 LOCATION:School
 DESCRIPTION:School closed to pupils.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:6adb5779-33d5-4c22-be67-61b5b3ac1e99@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -182,6 +206,7 @@ DTEND;VALUE=DATE:20270722
 LOCATION:School
 DESCRIPTION:Term ends 1.00pm.
 END:VEVENT
+
 BEGIN:VEVENT
 UID:b110faca-cd29-4e18-a918-16d976e0315a@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
@@ -191,4 +216,5 @@ DTEND;VALUE=DATE:20270723
 LOCATION:School
 DESCRIPTION:School closed to pupils.
 END:VEVENT
+
 END:VCALENDAR
