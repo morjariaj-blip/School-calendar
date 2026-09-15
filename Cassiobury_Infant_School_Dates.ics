@@ -39,6 +39,16 @@ DESCRIPTION:First day of Autumn Term 2026.
 END:VEVENT
 
 BEGIN:VEVENT
+UID:national-fitness-day-20260916@cassiobury-infant-school
+DTSTAMP:20260915T152300Z
+SUMMARY:National Fitness Day
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+LOCATION:School
+DESCRIPTION:It is Fitness Day tomorrow\, Wednesday 16th September\, so please ensure that your Reception child wears their P.E kit to school and not on Thursday as Fitness Day will replace the usual P.E slot.
+END:VEVENT
+
+BEGIN:VEVENT
 UID:454d4910-367c-4d7a-af80-f401eb5d3e6f@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
 SUMMARY:Flu Vaccinations
