@@ -79,6 +79,16 @@ DESCRIPTION:All parents. New initiative to help staff support children with beha
 END:VEVENT
 
 BEGIN:VEVENT
+UID:csa-general-meeting-20261007@cassiobury-infant-school
+DTSTAMP:20260916T163700Z
+SUMMARY:CSA General Meeting
+DTSTART;TZID=Europe/London:20261007T200000
+DTEND;TZID=Europe/London:20261007T210000
+LOCATION:School
+DESCRIPTION:The Oak Room
+END:VEVENT
+
+BEGIN:VEVENT
 UID:f0835f0f-42c3-4914-bfb5-46c409e398e6@cassiobury-infant-school
 DTSTAMP:20260912T194535Z
 SUMMARY:Parent Pit Stop - Phonics
