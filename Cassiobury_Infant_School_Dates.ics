@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 
 BEGIN:VEVENT
 UID:fcb7fd5a-9865-4b97-a569-10d9f44c511c@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
+DTSTAMP:20261014T073314Z
 SUMMARY:INSET Day - school closed to pupils
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
@@ -20,7 +20,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:a27261e3-01a4-48d2-8550-c45fea8c1309@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
+DTSTAMP:20261014T073314Z
 SUMMARY:INSET Day - school closed to pupils
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
@@ -30,7 +30,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:a868b0e2-81f0-4987-8f61-5021cfaeefec@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
+DTSTAMP:20261014T073314Z
 SUMMARY:Autumn term starts
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
@@ -40,57 +40,57 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:national-fitness-day-20260916@cassiobury-infant-school
-DTSTAMP:20260915T152300Z
+DTSTAMP:20261014T073314Z
 SUMMARY:National Fitness Day
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 LOCATION:School
-DESCRIPTION:It is Fitness Day tomorrow\, Wednesday 16th September\, so please ensure that your Reception child wears their P.E kit to school and not on Thursday as Fitness Day will replace the usual P.E slot.
+DESCRIPTION:Reception children to wear P.E kit instead of Thursday.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:454d4910-367c-4d7a-af80-f401eb5d3e6f@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
+DTSTAMP:20261014T073314Z
 SUMMARY:Flu Vaccinations
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 LOCATION:School
-DESCRIPTION:Administered by Vaccination UK. Online permission form must be completed - sent directly by Vaccination UK\; queries to them\, not school.
+DESCRIPTION:Administered by Vaccination UK. Online permission form required.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:73425291-ef7d-4fa2-aa4a-4f924fb355a9@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
-SUMMARY:Jeans for Jeans day
+DTSTAMP:20261014T073314Z
+SUMMARY:Jeans for Jeans Day
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 LOCATION:School
-DESCRIPTION:Wear jeans to school\, send £1 top half in uniform
+DESCRIPTION:Wear jeans to school and send £1. Top half in school uniform.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:4fa6d925-faf9-4054-96fe-fe470ef8e382@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
+DTSTAMP:20261014T073314Z
 SUMMARY:Parent Pit Stop - Relational Practice (Positive Regard)
 DTSTART;TZID=Europe/London:20260925T090000
 DTEND;TZID=Europe/London:20260925T100000
 LOCATION:School
-DESCRIPTION:All parents. New initiative to help staff support children with behaviour and well-being. Approx. 1 hour. Booking: 'Positive Regard sign up' link.
+DESCRIPTION:All parents. New initiative supporting children's behaviour and well-being. Booking required.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:open-afternoon-20260925@cassiobury-infant-school
-DTSTAMP:20260918T210100Z
+DTSTAMP:20261014T073314Z
 SUMMARY:Open Afternoon
 DTSTART;TZID=Europe/London:20260925T144500
 DTEND;TZID=Europe/London:20260925T151500
 LOCATION:School
-DESCRIPTION:You are invited in to school on Friday 25th September at 2:45pm to your child's classroom. This is a wonderful opportunity for you to visit your child's classroom. As much of our learning has been hands-on and practical these first few weeks this is just an opportunity to have a look around the classroom.
+DESCRIPTION:Parents invited to visit their child's classroom.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:individual-school-photos-20261001@cassiobury-infant-school
-DTSTAMP:20260918T210100Z
+DTSTAMP:20261014T073314Z
 SUMMARY:Individual School Photos
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
@@ -99,47 +99,77 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:csa-general-meeting-20261007@cassiobury-infant-school
-DTSTAMP:20260916T163700Z
+DTSTAMP:20261014T073314Z
 SUMMARY:CSA General Meeting
 DTSTART;TZID=Europe/London:20261007T200000
 DTEND;TZID=Europe/London:20261007T210000
-LOCATION:School
-DESCRIPTION:The Oak Room
+LOCATION:The Oak Room
+DESCRIPTION:CSA General Meeting.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:f0835f0f-42c3-4914-bfb5-46c409e398e6@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
+DTSTAMP:20261014T073314Z
 SUMMARY:Parent Pit Stop - Phonics
 DTSTART;TZID=Europe/London:20261016T090000
 DTEND;TZID=Europe/London:20261016T100000
 LOCATION:School
-DESCRIPTION:Reception parents only. How we teach phonics\, then hands-on session with your child. Booking: 'Reception sign up' link.
+DESCRIPTION:Reception parents only. Learn how phonics is taught followed by a hands-on session with your child. Booking required.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pe-kit-day-20261020@cassiobury-infant-school
+DTSTAMP:20261014T073314Z
+SUMMARY:P.E Kit Day
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+LOCATION:School
+DESCRIPTION:Children to wear P.E kit today instead of Thursday 22 October.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:halloween-drawing-20261024@cassiobury-infant-school
+DTSTAMP:20261014T073314Z
+SUMMARY:Halloween Drawing Competition
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261101
+LOCATION:School
+DESCRIPTION:CSA Halloween drawing competition. Runs 24-31 October.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:06d68203-00a8-4b67-bb46-6b3a3d542e97@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
+DTSTAMP:20261014T073314Z
 SUMMARY:Half Term - school closed
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261031
 LOCATION:School
-DESCRIPTION:Monday 26 October - Friday 30 October 2026.
+DESCRIPTION:Monday 26 October to Friday 30 October 2026.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:csa-cake-sale-20261106@cassiobury-infant-school
+DTSTAMP:20261014T073314Z
+SUMMARY:CSA Cake Sale
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+LOCATION:School
+DESCRIPTION:CSA cake sale.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:cfc6d5e6-7386-4a67-9780-8ff5ade93b17@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
+DTSTAMP:20261014T073314Z
 SUMMARY:Parent Pit Stop - Reception Maths Mastery
 DTSTART;TZID=Europe/London:20261109T140000
 DTEND;TZID=Europe/London:20261109T150000
 LOCATION:School
-DESCRIPTION:Reception parents only. How we teach Maths\, then hands-on session with your child. Booking link to follow.
+DESCRIPTION:Reception parents only. Learn how Maths is taught followed by a hands-on session with your child. Booking link to follow.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:0a9e4ab7-88f5-40c6-9f36-efcb380841f5@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
+DTSTAMP:20261014T073314Z
 SUMMARY:Occasional Day - school closed to pupils
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
@@ -148,18 +178,28 @@ DESCRIPTION:School closed to pupils.
 END:VEVENT
 
 BEGIN:VEVENT
+UID:christmas-drawing-20261210@cassiobury-infant-school
+DTSTAMP:20261014T073314Z
+SUMMARY:Christmas Drawing Competition
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261218
+LOCATION:School
+DESCRIPTION:CSA Christmas drawing competition. Runs 10-17 December.
+END:VEVENT
+
+BEGIN:VEVENT
 UID:14d09022-96a7-498b-bb39-bd593ea86444@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
-SUMMARY:Autumn term ends
+DTSTAMP:20261014T073314Z
+SUMMARY:Autumn Term Ends
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 LOCATION:School
-DESCRIPTION:Term ends 1.00pm.
+DESCRIPTION:Term ends at 1.00pm.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:e9e113cd-6691-4d78-a869-81f31c2b23e8@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
+DTSTAMP:20261014T073314Z
 SUMMARY:INSET Day - school closed to pupils
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
@@ -169,8 +209,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:665d62b9-f407-43ad-b49b-098e441e1983@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
-SUMMARY:Spring term starts
+DTSTAMP:20261014T073314Z
+SUMMARY:Spring Term Starts
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 LOCATION:School
@@ -178,73 +218,56 @@ DESCRIPTION:First day of Spring Term 2027.
 END:VEVENT
 
 BEGIN:VEVENT
+UID:csa-cake-sale-20270205@cassiobury-infant-school
+DTSTAMP:20261014T073314Z
+SUMMARY:CSA Cake Sale
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+LOCATION:School
+DESCRIPTION:CSA cake sale.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:csa-uniform-sale-20270209@cassiobury-infant-school
+DTSTAMP:20261014T073314Z
+SUMMARY:[Provisional] CSA Uniform Sale
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+LOCATION:School
+DESCRIPTION:Provisional date. Please confirm with school or CSA.
+END:VEVENT
+
+BEGIN:VEVENT
 UID:824991c2-62b1-4716-9484-f446c2ffbcb4@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
+DTSTAMP:20261014T073314Z
 SUMMARY:Half Term - school closed
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270220
 LOCATION:School
-DESCRIPTION:Monday 15 February - Friday 19 February 2027.
+DESCRIPTION:Monday 15 February to Friday 19 February 2027.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:csa-readathon-20270302@cassiobury-infant-school
+DTSTAMP:20261014T073314Z
+SUMMARY:[Provisional] CSA Readathon
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270309
+LOCATION:School
+DESCRIPTION:Provisional dates. Readathon runs 2-8 March. Please confirm with school or CSA.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:f7b01ff6-cee1-47a2-95c8-f39968c8268b@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
-SUMMARY:Spring term ends
+DTSTAMP:20261014T073314Z
+SUMMARY:Spring Term Ends
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 LOCATION:School
-DESCRIPTION:Term ends 1.00pm.
+DESCRIPTION:Term ends at 1.00pm.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:f3088bda-5549-4011-b3fc-997fa08fd322@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
-SUMMARY:Summer term starts
-DTSTART;VALUE=DATE:20270412
-DTEND;VALUE=DATE:20270413
-LOCATION:School
-DESCRIPTION:First day of Summer Term 2027.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:256d0b49-fc8c-4bdd-bd64-168b5a04075b@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
-SUMMARY:Half Term - school closed
-DTSTART;VALUE=DATE:20270531
-DTEND;VALUE=DATE:20270605
-LOCATION:School
-DESCRIPTION:Monday 31 May - Friday 4 June 2027.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:e26c08c0-dae0-49df-969e-f241bec5c79f@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
-SUMMARY:INSET Day - school closed to pupils
-DTSTART;VALUE=DATE:20270625
-DTEND;VALUE=DATE:20270626
-LOCATION:School
-DESCRIPTION:School closed to pupils.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:6adb5779-33d5-4c22-be67-61b5b3ac1e99@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
-SUMMARY:Summer term ends
-DTSTART;VALUE=DATE:20270721
-DTEND;VALUE=DATE:20270722
-LOCATION:School
-DESCRIPTION:Term ends 1.00pm.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:b110faca-cd29-4e18-a918-16d976e0315a@cassiobury-infant-school
-DTSTAMP:20260912T194535Z
-SUMMARY:INSET Day - school closed to pupils
-DTSTART;VALUE=DATE:20270722
-DTEND;VALUE=DATE:20270723
-LOCATION:School
-DESCRIPTION:School closed to pupils.
-END:VEVENT
-
-END:VCALENDAR
+DTSTAMP:20261014T073314Z
+SUMMARY:Summer Term Starts
