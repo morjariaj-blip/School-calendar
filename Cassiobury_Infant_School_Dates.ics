@@ -208,6 +208,16 @@ DESCRIPTION:CSA Christmas drawing competition. Runs 10-17 December.
 END:VEVENT
 
 BEGIN:VEVENT
+UID:reception-nativity-20261216@cassiobury-infant-school
+DTSTAMP:20261121T090000Z
+SUMMARY:Reception Nativity at St Luke's
+DTSTART;TZID=Europe/London:20261216T093000
+DTEND;TZID=Europe/London:20261216T103000
+LOCATION:St Luke's\, Langley Way\, Watford WD17 3EG
+DESCRIPTION:Reception Nativity at St Luke's. Starts 9.30am.
+END:VEVENT
+
+BEGIN:VEVENT
 UID:14d09022-96a7-498b-bb39-bd593ea86444@cassiobury-infant-school
 DTSTAMP:20261014T073314Z
 SUMMARY:Autumn Term Ends
