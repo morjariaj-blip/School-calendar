@@ -178,6 +178,26 @@ DESCRIPTION:Virtual parent consultations for EYFS (Reception). Wednesday 11 and 
 END:VEVENT
 
 BEGIN:VEVENT
+UID:wellbeing-week-pe-kit-20261123@cassiobury-infant-school
+DTSTAMP:20261121T090000Z
+SUMMARY:Wellbeing Week - PE kit today
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+LOCATION:School
+DESCRIPTION:Wellbeing Week: come to school in PE kit today (Monday) instead of Thursday.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wellbeing-week-no-pe-kit-20261126@cassiobury-infant-school
+DTSTAMP:20261121T090000Z
+SUMMARY:Wellbeing Week - No PE kit today
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+LOCATION:School
+DESCRIPTION:Wellbeing Week: no PE kit today. PE kit moved to Monday 23 November.
+END:VEVENT
+
+BEGIN:VEVENT
 UID:0a9e4ab7-88f5-40c6-9f36-efcb380841f5@cassiobury-infant-school
 DTSTAMP:20261014T073314Z
 SUMMARY:Occasional Day - school closed to pupils
